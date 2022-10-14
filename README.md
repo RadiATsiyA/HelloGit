@@ -1,2 +1,0 @@
-# MyFirstOdnostranichka
-# HelloGit
